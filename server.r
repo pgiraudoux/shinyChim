@@ -83,8 +83,8 @@ function(input, output, session) {
     legend(list(x=0,y=max(dens2()$Nt)*2),
            legend=as.expression(list(
              "Sans prédateur",
-             bquote(.(input$densren) * " ind."/"km"^2 * "(sans piégeage)"),
-             "avec piégeage"
+             bquote(.(input$densren) * " ind."/"km"^2 * "(sans traitement)"),
+             "avec traitements"
            )),
            lty=1,col=c("black","red","green"),bty="n") # solution Peter Dalgaard
 
