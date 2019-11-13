@@ -8,7 +8,7 @@ A chemical treatment file is just a text file tab delimited with two headed colu
 
 
 ```
-Jour	Efficiency
+Day	Efficiency
 2	0.8
 30	0.8
 90	0.8
@@ -21,7 +21,7 @@ This means that a treatment is achieved on days 2, 30, 90, 120 and that 80% of t
 An empty file such as below can be uploaded to set trapping effort to zero (until I find a clean way to do it otherwise...)
 
 ```
-Jour	Efficiency
+Day	Efficiency
 1	0
 ```
 
