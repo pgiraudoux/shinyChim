@@ -1,4 +1,4 @@
-# shinyPred
+# shinyChim
 
 This is a shiny app to analyse the impact of chemical treatments on a growing vole population
 
