@@ -4,7 +4,7 @@ This is a shiny app to analyse the impact of chemical treatments on a growing vo
 
 ## Import trapping plan file
 
-A chemical treatment file is just a text file tab delimited with two headed columslike the following
+A chemical treatment file is just a text file tab delimited with two headed columns like the following:
 
 
 ```
